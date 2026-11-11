@@ -1,0 +1,291 @@
+{
+ "_about": "iPhones: specs parsed from Apple Tech Specs pages (support.apple.com/en-us/<kb>, cached in scripts/cache/apple/). Launch month and starting prices transcribed from Apple Newsroom launch press releases (US for $, India for ₹); each entry keeps both source URLs.",
+ "phones": [
+  {
+   "kb": "111873",
+   "id": "iphone_13_mini",
+   "series": "iPhone",
+   "year": 2021,
+   "month": 9,
+   "priceUsd": 699,
+   "priceUsdSource": "https://www.apple.com/newsroom/2021/09/apple-introduces-iphone-13-and-iphone-13-mini/",
+   "priceInr": 69900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2021/09/apple-introduces-iphone-13-and-iphone-13-mini/"
+  },
+  {
+   "kb": "111872",
+   "id": "iphone_13",
+   "series": "iPhone",
+   "year": 2021,
+   "month": 9,
+   "priceUsd": 799,
+   "priceUsdSource": "https://www.apple.com/newsroom/2021/09/apple-introduces-iphone-13-and-iphone-13-mini/",
+   "priceInr": 79900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2021/09/apple-introduces-iphone-13-and-iphone-13-mini/"
+  },
+  {
+   "kb": "111871",
+   "id": "iphone_13_pro",
+   "series": "iPhone Pro",
+   "year": 2021,
+   "month": 9,
+   "priceUsd": 999,
+   "priceUsdSource": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+   "priceInr": 119900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/"
+  },
+  {
+   "kb": "111870",
+   "id": "iphone_13_pro_max",
+   "series": "iPhone Pro",
+   "year": 2021,
+   "month": 9,
+   "priceUsd": 1099,
+   "priceUsdSource": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+   "priceInr": 129900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/"
+  },
+  {
+   "kb": "111866",
+   "id": "iphone_se_3rd_gen",
+   "series": "iPhone e & SE",
+   "year": 2022,
+   "month": 3,
+   "priceUsd": 429,
+   "priceUsdSource": "https://www.apple.com/newsroom/2022/03/apple-announces-the-new-iphone-se-a-powerful-smartphone-in-an-iconic-design/",
+   "priceInr": 43900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2022/03/apple-announces-the-new-iphone-se-a-powerful-smartphone-in-an-iconic-design/"
+  },
+  {
+   "kb": "111850",
+   "id": "iphone_14",
+   "series": "iPhone",
+   "year": 2022,
+   "month": 9,
+   "priceUsd": 799,
+   "priceUsdSource": "https://www.apple.com/newsroom/2022/09/apple-introduces-iphone-14-and-iphone-14-plus/",
+   "priceInr": 79900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2022/09/apple-introduces-iphone-14-and-iphone-14-plus/"
+  },
+  {
+   "kb": "111854",
+   "id": "iphone_14_plus",
+   "series": "iPhone",
+   "year": 2022,
+   "month": 9,
+   "priceUsd": 899,
+   "priceUsdSource": "https://www.apple.com/newsroom/2022/09/apple-introduces-iphone-14-and-iphone-14-plus/",
+   "priceInr": 89900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2022/09/apple-introduces-iphone-14-and-iphone-14-plus/"
+  },
+  {
+   "kb": "111849",
+   "id": "iphone_14_pro",
+   "series": "iPhone Pro",
+   "year": 2022,
+   "month": 9,
+   "priceUsd": 999,
+   "priceUsdSource": "https://www.apple.com/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/",
+   "priceInr": 129900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/"
+  },
+  {
+   "kb": "111846",
+   "id": "iphone_14_pro_max",
+   "series": "iPhone Pro",
+   "year": 2022,
+   "month": 9,
+   "priceUsd": 1099,
+   "priceUsdSource": "https://www.apple.com/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/",
+   "priceInr": 139900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/"
+  },
+  {
+   "kb": "111831",
+   "id": "iphone_15",
+   "series": "iPhone",
+   "year": 2023,
+   "month": 9,
+   "priceUsd": 799,
+   "priceUsdSource": "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/",
+   "priceInr": 79900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/"
+  },
+  {
+   "kb": "111830",
+   "id": "iphone_15_plus",
+   "series": "iPhone",
+   "year": 2023,
+   "month": 9,
+   "priceUsd": 899,
+   "priceUsdSource": "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/",
+   "priceInr": 89900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/"
+  },
+  {
+   "kb": "111829",
+   "id": "iphone_15_pro",
+   "series": "iPhone Pro",
+   "year": 2023,
+   "month": 9,
+   "priceUsd": 999,
+   "priceUsdSource": "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/",
+   "priceInr": 134900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/"
+  },
+  {
+   "kb": "111828",
+   "id": "iphone_15_pro_max",
+   "series": "iPhone Pro",
+   "year": 2023,
+   "month": 9,
+   "priceUsd": 1199,
+   "priceUsdSource": "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/",
+   "priceInr": 159900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/"
+  },
+  {
+   "kb": "121029",
+   "id": "iphone_16",
+   "series": "iPhone",
+   "year": 2024,
+   "month": 9,
+   "priceUsd": 799,
+   "priceUsdSource": "https://www.apple.com/newsroom/2024/09/apple-introduces-iphone-16-and-iphone-16-plus/",
+   "priceInr": 79900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2024/09/apple-introduces-iphone-16-and-iphone-16-plus/"
+  },
+  {
+   "kb": "121030",
+   "id": "iphone_16_plus",
+   "series": "iPhone",
+   "year": 2024,
+   "month": 9,
+   "priceUsd": 899,
+   "priceUsdSource": "https://www.apple.com/newsroom/2024/09/apple-introduces-iphone-16-and-iphone-16-plus/",
+   "priceInr": 89900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2024/09/apple-introduces-iphone-16-and-iphone-16-plus/"
+  },
+  {
+   "kb": "121031",
+   "id": "iphone_16_pro",
+   "series": "iPhone Pro",
+   "year": 2024,
+   "month": 9,
+   "priceUsd": 999,
+   "priceUsdSource": "https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/",
+   "priceInr": 119900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/"
+  },
+  {
+   "kb": "121032",
+   "id": "iphone_16_pro_max",
+   "series": "iPhone Pro",
+   "year": 2024,
+   "month": 9,
+   "priceUsd": 1199,
+   "priceUsdSource": "https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/",
+   "priceInr": 144900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/"
+  },
+  {
+   "kb": "122208",
+   "id": "iphone_16e",
+   "series": "iPhone e & SE",
+   "year": 2025,
+   "month": 2,
+   "priceUsd": 599,
+   "priceUsdSource": "https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/",
+   "priceInr": 59900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"
+  },
+  {
+   "kb": "125089",
+   "id": "iphone_17",
+   "series": "iPhone",
+   "year": 2025,
+   "month": 9,
+   "priceUsd": 799,
+   "priceUsdSource": "https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/",
+   "priceInr": 82900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2025/09/apple-introduces-iphone-17/"
+  },
+  {
+   "kb": "125092",
+   "id": "iphone_air",
+   "series": "iPhone Air",
+   "year": 2025,
+   "month": 9,
+   "priceUsd": 999,
+   "priceUsdSource": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+   "priceInr": 119900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/"
+  },
+  {
+   "kb": "125090",
+   "id": "iphone_17_pro",
+   "series": "iPhone Pro",
+   "year": 2025,
+   "month": 9,
+   "priceUsd": 1099,
+   "priceUsdSource": "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
+   "priceInr": 134900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/"
+  },
+  {
+   "kb": "125091",
+   "id": "iphone_17_pro_max",
+   "series": "iPhone Pro",
+   "year": 2025,
+   "month": 9,
+   "priceUsd": 1199,
+   "priceUsdSource": "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
+   "priceInr": 149900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/"
+  },
+  {
+   "kb": "126470",
+   "id": "iphone_17e",
+   "series": "iPhone e & SE",
+   "year": 2026,
+   "month": 3,
+   "priceUsd": 599,
+   "priceUsdSource": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+   "priceInr": 64900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2026/03/apple-introduces-iphone-17e/"
+  },
+  {
+   "kb": "148590",
+   "id": "iphone_18_pro",
+   "series": "iPhone Pro",
+   "year": 2026,
+   "month": 9,
+   "priceUsd": 1199,
+   "priceUsdSource": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+   "priceInr": 164900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/"
+  },
+  {
+   "kb": "148591",
+   "id": "iphone_18_pro_max",
+   "series": "iPhone Pro",
+   "year": 2026,
+   "month": 9,
+   "priceUsd": 1299,
+   "priceUsdSource": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+   "priceInr": 179900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/"
+  },
+  {
+   "kb": "148588",
+   "id": "iphone_duo",
+   "series": "iPhone Duo",
+   "year": 2026,
+   "month": 9,
+   "priceUsd": 1999,
+   "priceUsdSource": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+   "priceInr": 299900,
+   "priceInrSource": "https://www.apple.com/in/newsroom/2026/09/apple-unveils-iphone-duo/"
+  }
+ ]
+}
